@@ -1,0 +1,20 @@
+{
+  "name": "ym-el-scrollbar",
+  "version": "1.0.0",
+  "description": "二次封装element-ui的el-scrollbar，让它在移动端表现更好",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sishenhei7/ym-el-scrollbar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sishenhei7/ym-el-scrollbar/issues"
+  },
+  "homepage": "https://github.com/sishenhei7/ym-el-scrollbar#readme",
+  "devDependencies": {}
+}
