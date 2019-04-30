@@ -1,6 +1,6 @@
 {
   "name": "ym-el-scrollbar",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "二次封装element-ui的el-scrollbar，让它在移动端表现更好",
   "main": "index.js",
   "scripts": {
